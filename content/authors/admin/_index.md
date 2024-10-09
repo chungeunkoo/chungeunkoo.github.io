@@ -3,7 +3,7 @@
 title: Chungeun Koo
 
 # Name pronunciation (optional)
-name_pronunciation: Jeongeun Koo
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Chungeun
@@ -11,7 +11,7 @@ last_name: Koo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jeongeun.koo@gmail.com'
+    url: 'jeongeun.koo@gmail.com'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
@@ -58,32 +58,32 @@ education:
     date_start: 2015-08-27
     date_end: 2021-12-17
     summary: |
-      Thesis on _How Social Mix Brings About Social Outcomes: Mechanisms and Relevant Factors_. Supervised by [Prof Heather E. Campbell](https://www.cgu.edu/people/heather-campbell/).
+      Thesis on _"How Social Mix Brings about Social Outcomes: Mechanisms and Relevant Factors"_. Supervised by Prof. Heather E. Campbell.
     button:
       text: 'Read Thesis'
-      url: 'https://www.proquest.com/openview/97c69abd0fd6f8c1572bc36a237e545a/1?pq-origsite=gscholar&cbl=18750&diss=y'
+      url: 'https://www.proquest.com/openview/97c69abd0fd6f8c1572bc36a237e545a'
   - area: Master of Urban and Regional Planning
-    institution: Seoul National University, Graduate School of Evironmental Studies
+    institution: Seoul National University, Graduate School of Environmental Studies
     date_start: 2004-09-01
     date_end: 2006-08-30
     summary: |
-      Thesis on _The Level of Multinuclearation by City Size_. Supervised by Prof Heeyeon Lee.
+      Thesis on _"The Level of Multinuclearation by City Size"_. Supervised by Prof. Heeyeon Lee.
   - area: Bachelor of Arts
     institution: Seoul National University, College of Education
     date_start: 1998-03-01
     date_end: 2002-02-26
-#    summary: |
+    summary: |
 work:
   - position: Associate Research Fellow
     company_name: Korea Housing Institute
     date_start: 2024-05-07
     date_end: ''
   - position: Postdoctral Researcher
-    company_name: Yonsei Univ.
+    company_name: Yonsei University
     date_start: 2024-03-01
     date_end: 2024-04-30
   - position: Postdoctral Researcher
-    company_name: Gachon Univ.
+    company_name: Gachon University
     date_start: 2022-04-01
     date_end: 2024-02-28
   - position: Researcher
@@ -93,7 +93,7 @@ work:
   - position: Researcher
     company_name: Goyang Industry Promotion Agency
     date_start: 2007-04-17
-    date_end: 208-02-22
+    date_end: 2008-02-22
   - position: Researcher
     company_name: Gyeonggi Research Institute
     date_start: 2006-08-07
@@ -127,43 +127,43 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: code-bracket
-#      - name: Data Science
-#        description: ''
-#        percent: 100
-#        icon: chart-bar
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: circle-stack
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
-languages:
-  - name: Korean
-    percent: 100
-  - name: English
-    percent: 90
+#languages:
+#  - name: Korean
+#    percent: 100
+#  - name: English
+#    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -199,4 +199,4 @@ languages:
 
 ## About Me
 
-Chungeun Koo is an Associate Research Fellow at the Korea Housing Institute (KHI), South Korea and a Research Associate of Inequality and Policy Research Center, Claremont Graduate University, U.S. Her research covers a wide range of urban planning—including economic development, regional economics, and spatial modelling. Her current research focuses on urban policy, with an emphasis on policies against inequality and poverty. She is also interested in policy analysis drawn from the methods of econometrics. Koo earned a BA in Education and MA in Urban and Regional Planning from the Seoul National University at South Korea, and a PhD in Political Science from Claremont Graduate University. Before joining CGU, Koo worked as a researcher at Korea Research Institute for Human Settlement.
+Chungeun Koo is an Associate Research Fellow at the Korea Housing Institute (KHI), South Korea and a Research Associate of Inequality and Policy Research Center, Claremont Graduate University, U.S. Her research covers a wide range of urban planning including economic development, regional economics, and spatial modelling. Her current research focuses on urban policy, with an emphasis on policies against inequality and poverty. She is also interested in policy analysis drawn from the methods of econometrics. Chungeun earned a BA in Education and MA in Urban and Regional Planning from the Seoul National University, South Korea, and a PhD in Political Science from Claremont Graduate University. Before joining CGU, she worked as a researcher at Korea Research Institute for Human Settlement.
